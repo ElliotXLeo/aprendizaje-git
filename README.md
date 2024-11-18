@@ -22,12 +22,12 @@ git help <comandos>*
 
 #### Configura el usuario
 ```
-git config --global user.name <usuario>
+git config --global user.name xCAMPOx
 ```
 
 #### Configura el email
 ```
-git config --global user.email <correo>
+git config --global user.email tomas.camporeale95@gmail.com
 ```
 
 #### Lista la configuración de git
